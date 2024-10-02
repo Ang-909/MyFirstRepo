@@ -1,9 +1,0 @@
-<body>
-<p> Hi. My name is Angelina Persaud and I am a Architecture major</p>
-<br>
-<P> I like art and watching movies</P>
-
-<br>
-<p> My favorite hobbie is ceramics</p>
-My love watching movies
-
