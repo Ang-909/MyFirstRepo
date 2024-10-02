@@ -4,4 +4,6 @@
 <P> I like art and watching movies</P>
 
 <br>
-<p> My favorite hobbie is ceraamics</p>
+<p> My favorite hobbie is ceramics</p>
+My love watching movies
+
